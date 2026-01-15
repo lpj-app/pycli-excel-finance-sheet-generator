@@ -28,8 +28,8 @@ TEXTS = {
         "col_class": "Anlage",
         
         # Kategorien Titel
-        "cat_living": "🏠 WOHNEN",
-        "cat_digital": "💻 DIGITALES",
+        "cat_living": "🏠 WOHNEN & LEBEN",
+        "cat_digital": "💻 DIGITALES & ABOS",
         "cat_insurance": "🛡️ VERSICHERUNG",
         "cat_invest": "📈 SPARPLÄNE",
         "cat_log": "📊 VERMÖGENS-VERLAUF",
@@ -90,8 +90,8 @@ TEXTS = {
         "col_goal": "Goal",
         "col_class": "Asset",
         
-        "cat_living": "🏠 LIVING",
-        "cat_digital": "💻 DIGITAL",
+        "cat_living": "🏠 LIVING & LIFE",
+        "cat_digital": "💻 DIGITAL & SUBSCRIPTIONS",
         "cat_insurance": "🛡️ INSURANCE",
         "cat_invest": "📈 INVESTMENTS",
         "cat_log": "📊 WEALTH LOG",
