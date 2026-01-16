@@ -165,7 +165,7 @@ def create_excel(year, language_code, texts, with_dashboard=False):
         ws_dash.sheet_view.showRowColHeaders = False
         
         for r in range(1, 4):
-            for cx in range(1, 40): ws_dash.cell(row=r, column=cx).fill = PatternFill("solid", c["navy"])
+            for cx in range(1, 200): ws_dash.cell(row=r, column=cx).fill = PatternFill("solid", c["navy"])
         ws_dash["B2"] = texts['dash_title']; ws_dash["B2"].font = Font(size=24, bold=True, color=c["white"])
 
         btns = [[f"{year} {texts['btn_open']}", str(year)], [f"{int(year)+1} (Platzhalter)", str(year)]]
