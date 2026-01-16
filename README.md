@@ -55,7 +55,7 @@
     ```
     to activate this environment
     ```bash
-    venv/scripts/activate
+    .\venv\Scripts\activate
     ```
 
 3. **Install requirements:**
